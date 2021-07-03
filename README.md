@@ -1,3 +1,7 @@
+# Amazon App
+
+## Next.js / Tailwind CSS / Redux / Firebase / NextAuth
+
 # Installation Steps
 
 ## Using npm
