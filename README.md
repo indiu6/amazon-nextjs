@@ -1,5 +1,7 @@
 # Amazon App
 
+using Fake Store API
+
 ## Next.js / Tailwind CSS / Redux / Firebase / NextAuth
 
 # Installation Steps
