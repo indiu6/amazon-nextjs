@@ -9,6 +9,7 @@
 ## Little Tricks
 
 - use Emmet
+- design Mobile view first using @media
 
 ## Using npm
 
