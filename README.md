@@ -4,7 +4,9 @@
 
 ## Next.js v11 / Tailwind CSS / Redux / Firebase / NextAuth / Stripe Checkout
 
-# Installation Steps
+# Deployed by Vercel
+
+- partially done: https://amazon-nextjs-pi.vercel.app/
 
 ## Little Tricks
 
