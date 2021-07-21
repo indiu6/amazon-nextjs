@@ -1,8 +1,8 @@
-# Amazon App
+# E-Commerce App
 
 - using Fake Store API
 
-## Next.js v11 / Tailwind CSS / Redux / Firebase / NextAuth
+## Next.js v11 / Tailwind CSS / Redux / Firebase / NextAuth / Stripe Checkout
 
 # Installation Steps
 
