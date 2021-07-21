@@ -4,7 +4,7 @@ import Header from '../components/Header';
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-gray-100">
       <Head>
         <title>Amazonify</title>
       </Head>
@@ -12,7 +12,6 @@ export default function Home() {
       <Header />
 
       <main className="max-w-screen-2xl mx-auto">
-        {/* Banner */}
         <Banner />
 
         {/* Product Feed */}
