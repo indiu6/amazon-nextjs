@@ -10,7 +10,7 @@
     "@heroicons/react": "^1.0.2",
     "@reduxjs/toolkit": "1.6.0",
     "@tailwindcss/line-clamp": "^0.2.1",
-    "firebase": "^8.6.8",
+    "firebase": "^8.7.1",
     "firebase-admin": "^9.10.0",
     "next": "latest",
     "next-auth": "^3.27.3",
