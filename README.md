@@ -2,7 +2,7 @@
 
 - using Fake Store API
 
-## Next.js v11 / Tailwind CSS / Redux / Firebase / NextAuth / Stripe Checkout
+## Next.js v11 / Tailwind CSS / Redux / Firebase / NextAuth(Authentication for Next.js) / Stripe Checkout
 
 # Deployed by Vercel
 
