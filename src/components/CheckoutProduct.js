@@ -14,7 +14,7 @@ function CheckoutProduct({
   image,
   hasPrime,
 }) {
-  const dispatch = useDispatch;
+  const dispatch = useDispatch();
 
   const addItemToBasket = () => {
     const product = {
