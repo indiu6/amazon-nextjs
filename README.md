@@ -24,5 +24,5 @@ Run commands
 
 ## Dev
 
-Stripe CLI
+Stripe CLI (run from cmd)
 - stripe listen --forward-to localhost:3000/api/webhook
