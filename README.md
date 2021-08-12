@@ -21,3 +21,8 @@ Run commands
 1. `npm install`
 
 2. `npm run dev`
+
+## Dev
+
+Stripe CLI
+- stripe listen --forward-to localhost:3000/api/webhook
