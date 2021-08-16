@@ -1,4 +1,5 @@
 import { getSession, useSession } from 'next-auth/client';
+import db from '../../firebase';
 import Header from '../components/Header';
 
 function Orders({ orders }) {
@@ -30,4 +31,21 @@ export async function getServerSideProps(context) {
 
   // get the users logged in credentials
   const session = getSession(context);
+
+  if (!session) {
+    return {
+      props: {},
+    };
+  }
+
+  // firebase db
+  const stripeOrders = await db
+    .collection('users')
+    .doc((await session).user.email)
+    .collection('orders')
+    .orderBy('timeStamp', 'desc')
+    .get();
+
+  // stripe orders
+  // const orders = await
 }
