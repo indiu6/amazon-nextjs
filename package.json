@@ -7,28 +7,28 @@
     "start": "next start"
   },
   "dependencies": {
-    "@heroicons/react": "^1.0.5",
-    "@reduxjs/toolkit": "1.7.1",
-    "@stripe/stripe-js": "^1.22.0",
-    "@tailwindcss/line-clamp": "^0.3.1",
-    "axios": "^0.24.0",
-    "firebase": "^9.6.2",
-    "firebase-admin": "^10.0.1",
-    "micro": "^9.3.4",
-    "moment": "^2.29.1",
-    "next": "12.0.8",
-    "next-auth": "^4.1.0",
-    "react": "17.0.2",
+    "@heroicons/react": "^2.0.11",
+    "@reduxjs/toolkit": "1.8.5",
+    "@stripe/stripe-js": "^1.36.0",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "axios": "^0.27.2",
+    "firebase": "^9.10.0",
+    "firebase-admin": "^11.0.1",
+    "micro": "^9.4.1",
+    "moment": "^2.29.4",
+    "next": "12.3.0",
+    "next-auth": "^4.10.3",
+    "react": "18.2.0",
     "react-currency-formatter": "^1.1.0",
-    "react-dom": "17.0.2",
-    "react-redux": "7.2.6",
-    "react-responsive-carousel": "^3.2.22",
-    "stripe": "^8.196.0"
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.2",
+    "react-responsive-carousel": "^3.2.23",
+    "stripe": "^10.10.0"
   },
   "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.13"
+    "autoprefixer": "^10.4.11",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   }
 }
